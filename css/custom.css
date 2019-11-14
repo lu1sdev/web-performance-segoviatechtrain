@@ -1,0 +1,16 @@
+.reveal h2 {
+  font-weight: bold;
+  font-size: 1.8em;
+}
+
+.reveal ul li {
+  margin: 1rem 0;
+}
+
+.reveal pre {
+  box-shadow: none;
+}
+
+.reveal pre code {
+  padding: 12px 20px;
+}
